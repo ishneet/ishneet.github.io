@@ -1,0 +1,71 @@
+* {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body{
+  background-color:black;
+  font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+  background:no-repeat;
+  background-position: center;
+  background-origin: 0 0 0;
+}
+
+text2{
+  font-size: 50px;
+  font-weight: 100;
+  color:#222;
+  line-height: 40px;
+}
+
+.hero-unit{
+  background-color: #eee;
+  padding: 45px;
+  margin-bottom: 0px;
+  float: top;
+}
+.container-fluid{
+  padding-top: 140px;
+}
+
+.row-fluid{
+  margin-left: 60px;
+}
+
+.top-bar{
+  background: black;  
+}
+
+p{
+  font-size: 14px;
+  margin: 0px;
+  line-height: 20px;
+}
+
+p-hero{
+  font-size: 14px;
+  margin: 0px;
+  line-height: 60px;
+}
+
+.left-pane{
+  padding-left: 0px;
+}
+
+.fill{
+  padding-top: 1px;
+  background-color: rgba(0,0,0,0.2);
+}
+
+.img-polaroid{
+  width: 170px;
+  padding: 2px;
+  background: white;
+  border: 1px solid rgba(0,0,0,0.2);
+  box-shadow: none;
+}
+
+.body-text{
+  margin-top: -100px;
+  margin-left: -10px;
+}
